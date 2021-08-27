@@ -1,0 +1,42 @@
+{
+    "id": "4fa48b2e-10ce-40a3-baa5-0bead227966c",
+    "sourceApplicationId": "833d5349-ce98-4aa6-8620-04324994e7c2",
+    "sourceApplicationInfo": {
+        "middleware": "BusEventAdapter"
+    },
+    "thingInfo": {
+        "sourceIdentificator": "2729585760",
+        "sourceIdentificatorType": "cardId",
+        "type": "cardId",
+        "name": "2729585760"
+    },
+    "deviceInfo": {
+        "sourceIdentificator": "2729585760",
+        "sourceIdentificatorType": "cardId"
+    },
+    "eventDateTime": "2020-11-10T18:31:11+00:00",
+    "position": {
+        "geographic": {"type": "Point", "coordinates": [-45.34376531839371,-22.90075938899756,0]}
+    },
+    "operationalInfo": {
+        "messageType": "",
+        "messageDetail": "",
+        "batteryState": ""
+    },
+    "properties": {
+        "BusLineInfo": {
+            "tripCode": "2061452",
+            "lineName": "TSL04-ALAGOAS-TURNO",
+            "initialPoint": null,
+            "finalPoint": null
+        }
+    },
+    "submissionLocation": {
+        "correlationId": "30182130-684-QEW0235"
+    },
+    "deviceIdentificator": "cardId:2729585760",
+    "valeLocation": {
+        "name": "127_ComplexoCarajas-Salobo-NucleoUrbano-ParqueZootanico-Aeroporto-Parauapebas",
+        "description": null
+    }
+}
